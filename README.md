@@ -1,1 +1,16 @@
-# lab.md
+# Training Labs
+
+> Charles Mburu | July 5, 2023
+
+-------------------
+
+
+These are free and accessible labs and exercises for demonstrations, learning, and education.
+
+This is made privately available for me to foster curiosity and passion within cybersecurity.
+
+
+
+| :grey_question: | Name  | Date |
+|----|-------|------|
+| :heavy_check_mark: | Password Hacking with John The Ripper | July 5, 2023 |
