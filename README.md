@@ -1,1 +1,1 @@
-# lab-lab.md
+# lab.md
