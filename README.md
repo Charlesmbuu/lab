@@ -14,3 +14,4 @@ This is made privately available for me to foster curiosity and passion within c
 | :grey_question: | Name  | Date |
 |----|-------|------|
 | :heavy_check_mark: | Password Hacking with John The Ripper | July 5, 2023 |
+| :heavy_check_mark: | Kioptrix Level 1 walkthrough | October 18, 2023 |
