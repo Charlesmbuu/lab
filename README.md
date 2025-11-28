@@ -1,13 +1,13 @@
 # Training Labs
 
-> Charles Mburu | July 5, 2023
+> Sir Mburu | July 5, 2023
 
 -------------------
 
 
 These are free and accessible labs and exercises for demonstrations, learning, and education.
 
-This is made privately available for me to foster curiosity and passion within cybersecurity.
+This is made "privately" available for all to foster curiosity and passion within cybersecurity.
 
 
 
